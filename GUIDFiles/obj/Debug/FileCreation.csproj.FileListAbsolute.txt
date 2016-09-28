@@ -1,0 +1,6 @@
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\bin\Debug\FileCreation.pdb
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\obj\Debug\FileCreation.pdb
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\bin\Debug\FileCreation.dll.config
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\bin\Debug\FileCreation.dll
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\obj\Debug\FileCreation.csprojResolveAssemblyReference.cache
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\obj\Debug\FileCreation.dll

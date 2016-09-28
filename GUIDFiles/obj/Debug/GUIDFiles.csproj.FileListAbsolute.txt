@@ -1,0 +1,6 @@
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\bin\Debug\GUIDFiles.exe.config
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\obj\Debug\GUIDFiles.csprojResolveAssemblyReference.cache
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\bin\Debug\GUIDFiles.exe
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\bin\Debug\GUIDFiles.pdb
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\obj\Debug\GUIDFiles.exe
+C:\Users\gkam4141\Documents\GitHub\GUIDFiles\GUIDFiles\obj\Debug\GUIDFiles.pdb
